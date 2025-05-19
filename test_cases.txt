@@ -1,0 +1,35 @@
+Emails:
+user@example.com
+firstname.lastname@company.co.uk
+info123@site.org
+bad-email@.com
+no-at-symbol.com
+user@domain
+
+URLs:
+https://www.example.com
+https://subdomain.example.org/page
+http://test-site.net/path?query=1
+not-a-url
+https:/incomplete.url
+
+Phone Numbers:
+(123) 456-7890
+123-456-7890
+123.456.7890
+123 456 7890
+1234567890
+(12) 3456-7890
+
+Credit Cards:
+1234 5678 9012 3456
+1234-5678-9012-3456
+1234567890123456
+1234 5678 9012 345
+
+Times:
+14:30
+2:30 PM
+09:05 am
+25:00
+12:60 PM
