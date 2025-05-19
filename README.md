@@ -21,9 +21,9 @@ Extracted data types include:
    cd alu_regex-data-extraction-israelkur-ayong
 
 3. Run the main script
+
    python regex_extractor.py
 
-   ```
 ## Features 
  
 - Supports multiple formats for each data type.
